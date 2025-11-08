@@ -57,7 +57,7 @@ I'm a passionate software engineer with **8+ years of experience** crafting scal
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amjithk)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amjithk)  
-📧 **amjith.k@outlook.com**
+📧 **amjith.kottayi@outlook.com**
 
 ---
 
